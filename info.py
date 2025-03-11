@@ -1,13 +1,13 @@
-API_ID       = 22971260
-API_HASH     = "39b93b45f525642b9c732f43185e4ab0"
-BOT_TOKEN    = "6351826749:AAGTaE62hlrZg369C6Ax7Cyo1J6WNd-R89w"
-SESSION      = "BQDvISsAFJNQ7K-5Wr4Z9jcIzOVvhtemNsaaxlgi8K1NvEMt3QR8ULZ2abtl5ljATZ87mF9TFrTvUAq9y_vGio98zz0rdzmi70aSPVi5oO77N7FNSfBr3j97_uUGQcP4iQO-FB9DBa7HGdLT-q0HyiZqWsM4JRk1FGsNbFcdxBxzQNFawPvxBG1kVN0hL61OazthF6YTp2E5BwQhF9S_psF1Ju_Ouz9HBUkfeI235sXTKf-uYs_KWWoolfxAQvJTK_larMDCtbNu55Jo1pVnUFDCfx75V8dUSg1Pnda909otpvVfVWSGeqpXFX879S1CED_zFsKkSOh9aqUjBEJp1ppFxTbEWAAAAAFgWo6YAA"
-DATABASE_URI = "mongodb+srv://Boobs:0@cluster0.bmheo5h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-LOG_CHANNEL  = -1002039419270
-ADMIN        = 5911514776
-CHANNEL      = "-1002039419270"
-APPROVETEXT  = "Hᴇʟʟᴏ {mention}\nWᴇʟᴄᴏᴍᴇ Tᴏ {title}\n\nYᴏᴜʀ ʀᴇǫᴜᴇsᴛ ʜᴀs ʙᴇᴇɴ ᴀᴘᴘʀᴏᴠᴇᴅ"
+API_ID       = 24673802
+API_HASH     = "c303a76d9d0fdb5dfb0a8fc4f44637ea"
+BOT_TOKEN    = "6576609270:AAGLAbzgaVGfrr5z2xWXA-gC_fngjA-Krkc"
+SESSION      = "BQF4fgoArcjtfk_e63DyCC4wm84X-J80fnJwUGkcP_CP7vWgG9pFHxjVvX5V23cbKr-UaeabenH0PDub1huao3FGyl8HBsZz8bEou4qMfLbC7kTHNEjfCsPyc2ba_yWoiNOaqHx63SjerP0vM-oS1CDaQWirVOUlHe24Qq65eTHq42Nhhn48MkhgDiCjD_NEA0rS_lsoDZGCdlOo4UAoVDlUJmOJ04Rb9pC4kx_B5MJ99eYr50ebXpYPBAqtjbY5533JajlUF39Ijshbf8rAIrxf-Ir4UMEgb0oejLjdPX_6s2qljqYH_vJzcUzZ8G7VrBEd_FQLMJieJY4gYzYwJAcMoi84_AAAAAF8qBDqAQ"
+DATABASE_URI = "mongodb+srv://Linksearchbot:0@cluster0.jghun.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1002276175126
+ADMIN        = 7861360572
+CHANNEL      = "-1002384171684"
+APPROVETEXT  = "Hᴇʟʟᴏ {mention}\nWᴇʟᴄᴏᴍᴇ Tᴏ {title}\n\nYᴏᴜʀ ʀᴇǫᴜᴇsᴛ ʜᴀs ʙᴇᴇɴ ᴀᴘᴘʀᴏᴠᴇᴅ Mᴀɪɴᴛᴀɪɴ ʙʏ @Mv_stream_villa "
 APPROVE     = "on"
-OWNER_USERNAME = "KUSHALHK"
+OWNER_USERNAME = "GAGAN_MEHRA"
 UPI_PIC = "https://telegra.ph/file/e28b3c353c24706fb67d8.jpg"
-BOT_USERNAME = "Post_Search_HK_bot"
+BOT_USERNAME = "Channel_Post_link_search_bot"
