@@ -1,7 +1,10 @@
 pyrogram
 tgcrypto
-motor[srv]
+motor[srv] 
 cinemagoer
 aiohttp
 aiofiles
 asyncio
+psutil
+Flask==2.2.2
+gunicorn==20.1.0
